@@ -73,7 +73,7 @@ class _HomeWelcomeRow extends StatelessWidget {
                 ],
               ),
             ),
-            const shadcn.Icon(Icons.notifications, color: Colors.white),
+            const shadcn.Icon(shadcn.LucideIcons.bell, color: Colors.white),
           ],
         ),
       ),

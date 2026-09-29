@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:provider/provider.dart';
 import 'package:shadcn_flutter/shadcn_flutter.dart' as shadcn;
 import 'package:tanzania_stocks_app/providers/market_provider.dart';
@@ -7,6 +8,10 @@ import 'package:tanzania_stocks_app/providers/profile_provider.dart';
 import 'package:tanzania_stocks_app/screens/page_view.dart';
 
 void main() {
+  WidgetsFlutterBinding.ensureInitialized();
+  // Keep the iOS status bar visible while allowing the app surface to extend
+  // behind it. Individual screens provide the appropriate icon contrast.
+  SystemChrome.setEnabledSystemUIMode(SystemUiMode.edgeToEdge);
   runApp(const MyApp());
 }
 
