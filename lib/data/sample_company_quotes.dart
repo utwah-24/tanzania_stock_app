@@ -1,0 +1,26 @@
+// Invented demo prices in TZS minor units and changes in basis points.
+// These supplement the six existing sample stocks; they are not market data.
+const sampleCompanyQuotes = <String, ({int priceMinor, int changeBasisPoints})>{
+  'DCB': (priceMinor: 18000, changeBasisPoints: 112),
+  'DSE': (priceMinor: 240000, changeBasisPoints: 85),
+  'EABL': (priceMinor: 320000, changeBasisPoints: -125),
+  'JATU': (priceMinor: 22000, changeBasisPoints: 238),
+  'JHL': (priceMinor: 480000, changeBasisPoints: 64),
+  'KA': (priceMinor: 8500, changeBasisPoints: -175),
+  'KCB': (priceMinor: 125000, changeBasisPoints: 142),
+  'MBP': (priceMinor: 65000, changeBasisPoints: 78),
+  'MCB': (priceMinor: 42000, changeBasisPoints: -47),
+  'MKCB': (priceMinor: 98000, changeBasisPoints: 103),
+  'MUCOBA': (priceMinor: 35000, changeBasisPoints: 145),
+  'NICO': (priceMinor: 68000, changeBasisPoints: -72),
+  'NMG': (priceMinor: 55000, changeBasisPoints: 93),
+  'PAL': (priceMinor: 28000, changeBasisPoints: -180),
+  'SWALA': (priceMinor: 50000, changeBasisPoints: 204),
+  'SWIS': (priceMinor: 180000, changeBasisPoints: 56),
+  'TCPLC': (priceMinor: 210000, changeBasisPoints: -94),
+  'TOL': (priceMinor: 110000, changeBasisPoints: 138),
+  'TPCC': (priceMinor: 420000, changeBasisPoints: 121),
+  'TTP': (priceMinor: 45000, changeBasisPoints: -110),
+  'USL': (priceMinor: 9500, changeBasisPoints: 165),
+  'YETU': (priceMinor: 30000, changeBasisPoints: 87),
+};

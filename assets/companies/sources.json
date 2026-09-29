@@ -1,0 +1,202 @@
+{
+  "retrievedAt": "2026-09-12",
+  "directory": "https://dse.co.tz/listed/company/list",
+  "companies": [
+    {
+      "symbol": "AFRIPRISE",
+      "name": "Afriprise Investment",
+      "profile": "https://dse.co.tz/listed/company/profile?id=25",
+      "logoUrl": "https://dse.co.tz/storage//securities/TICL/Logo/TICL.png",
+      "asset": "assets/companies/afriprise.png"
+    },
+    {
+      "symbol": "CRDB",
+      "name": "CRDB Bank",
+      "profile": "https://dse.co.tz/listed/company/profile?id=2",
+      "logoUrl": "https://dse.co.tz/storage//securities/CRDB/Logo/CRDB.jpg",
+      "asset": "assets/companies/crdb.jpg"
+    },
+    {
+      "symbol": "DCB",
+      "name": "DCB Commercial Bank",
+      "profile": "https://dse.co.tz/listed/company/profile?id=3",
+      "logoUrl": "https://dse.co.tz/storage//securities/DCB/Logo/DCB.jpeg",
+      "asset": "assets/companies/dcb.jpeg"
+    },
+    {
+      "symbol": "DSE",
+      "name": "Dar es Salaam Stock Exchange",
+      "profile": "https://dse.co.tz/listed/company/profile?id=1",
+      "logoUrl": "https://dse.co.tz/storage//securities/DSE/Logo/DSE.png",
+      "asset": "assets/companies/dse.png"
+    },
+    {
+      "symbol": "EABL",
+      "name": "East African Breweries",
+      "profile": "https://dse.co.tz/listed/company/profile?id=4",
+      "logoUrl": "https://dse.co.tz/storage//securities/EABL/Logo/EABL.jpg",
+      "asset": "assets/companies/eabl.jpg"
+    },
+    {
+      "symbol": "JATU",
+      "name": "JATU",
+      "profile": "https://dse.co.tz/listed/company/profile?id=26",
+      "logoUrl": "https://dse.co.tz/storage//securities/JATU/Logo/JATU.png",
+      "asset": "assets/companies/jatu.png"
+    },
+    {
+      "symbol": "JHL",
+      "name": "Jubilee Holdings",
+      "profile": "https://dse.co.tz/listed/company/profile?id=5",
+      "logoUrl": "https://dse.co.tz/storage//securities/JHL/Logo/JHL.jpg",
+      "asset": "assets/companies/jhl.jpg"
+    },
+    {
+      "symbol": "KA",
+      "name": "Kenya Airways",
+      "profile": "https://dse.co.tz/listed/company/profile?id=6",
+      "logoUrl": "https://dse.co.tz/storage//securities/KA/Logo/KA.jpg",
+      "asset": "assets/companies/ka.jpg"
+    },
+    {
+      "symbol": "KCB",
+      "name": "KCB Group",
+      "profile": "https://dse.co.tz/listed/company/profile?id=7",
+      "logoUrl": "https://dse.co.tz/storage//securities/KCB/Logo/KCB.png",
+      "asset": "assets/companies/kcb.png"
+    },
+    {
+      "symbol": "MBP",
+      "name": "Maendeleo Bank",
+      "profile": "https://dse.co.tz/listed/company/profile?id=8",
+      "logoUrl": "https://dse.co.tz/storage//securities/MBP/Logo/MBP.png",
+      "asset": "assets/companies/mbp.png"
+    },
+    {
+      "symbol": "MCB",
+      "name": "Mwalimu Commercial Bank",
+      "profile": "https://dse.co.tz/listed/company/profile?id=21",
+      "logoUrl": "https://dse.co.tz/storage//securities/MCB/Logo/MCB.png",
+      "asset": "assets/companies/mcb.png"
+    },
+    {
+      "symbol": "MKCB",
+      "name": "Mkombozi Commercial Bank",
+      "profile": "https://dse.co.tz/listed/company/profile?id=20",
+      "logoUrl": "https://dse.co.tz/storage//securities/MKCB/Logo/MKCB.png",
+      "asset": "assets/companies/mkcb.png"
+    },
+    {
+      "symbol": "MUCOBA",
+      "name": "Mucoba Bank",
+      "profile": "https://dse.co.tz/listed/company/profile?id=23",
+      "logoUrl": "https://dse.co.tz/storage//securities/MUCOBA/Logo/MUCOBA.png",
+      "asset": "assets/companies/mucoba.png"
+    },
+    {
+      "symbol": "NICO",
+      "name": "National Investment Company",
+      "profile": "https://dse.co.tz/listed/company/profile?id=9",
+      "logoUrl": "https://dse.co.tz/storage//securities/NICO/Logo/NICO.png",
+      "asset": "assets/companies/nico.png"
+    },
+    {
+      "symbol": "NMB",
+      "name": "NMB Bank",
+      "profile": "https://dse.co.tz/listed/company/profile?id=10",
+      "logoUrl": "https://dse.co.tz/storage//securities/NMB/Logo/NMB.png",
+      "asset": "assets/companies/nmb.png"
+    },
+    {
+      "symbol": "NMG",
+      "name": "Nation Media Group",
+      "profile": "https://dse.co.tz/listed/company/profile?id=11",
+      "logoUrl": "https://dse.co.tz/storage//securities/NMG/Logo/NMG.png",
+      "asset": "assets/companies/nmg.png"
+    },
+    {
+      "symbol": "PAL",
+      "name": "Precision Air Services",
+      "profile": "https://dse.co.tz/listed/company/profile?id=12",
+      "logoUrl": "https://dse.co.tz/storage//securities/PAL/Logo/PAL.jpg",
+      "asset": "assets/companies/pal.jpg"
+    },
+    {
+      "symbol": "SWALA",
+      "name": "Swala Oil and Gas",
+      "profile": "https://dse.co.tz/listed/company/profile?id=18",
+      "logoUrl": "https://dse.co.tz/storage//securities/SWALA/Logo/SWALA.png",
+      "asset": "assets/companies/swala.png"
+    },
+    {
+      "symbol": "SWIS",
+      "name": "Swissport Tanzania",
+      "profile": "https://dse.co.tz/listed/company/profile?id=13",
+      "logoUrl": "https://dse.co.tz/storage//securities/SWIS/Logo/SWISS.png",
+      "asset": "assets/companies/swis.png"
+    },
+    {
+      "symbol": "TBL",
+      "name": "Tanzania Breweries",
+      "profile": "https://dse.co.tz/listed/company/profile?id=14",
+      "logoUrl": "https://dse.co.tz/storage//securities/TBL/Logo/TBL.jpg",
+      "asset": "assets/companies/tbl.jpg"
+    },
+    {
+      "symbol": "TCC",
+      "name": "Tanzania Cigarette Company",
+      "profile": "https://dse.co.tz/listed/company/profile?id=27",
+      "logoUrl": "https://dse.co.tz/storage//securities/TCC/Logo/TCC.png",
+      "asset": "assets/companies/tcc.png"
+    },
+    {
+      "symbol": "TCPLC",
+      "name": "Tanga Cement",
+      "profile": "https://dse.co.tz/listed/company/profile?id=15",
+      "logoUrl": "https://dse.co.tz/storage//securities/TCCL/Logo/TCCL.png",
+      "asset": null
+    },
+    {
+      "symbol": "TOL",
+      "name": "TOL Gases",
+      "profile": "https://dse.co.tz/listed/company/profile?id=16",
+      "logoUrl": "https://dse.co.tz/storage//securities/TOL/Logo/TOL.jpg",
+      "asset": "assets/companies/tol.jpg"
+    },
+    {
+      "symbol": "TPCC",
+      "name": "Tanzania Portland Cement",
+      "profile": "https://dse.co.tz/listed/company/profile?id=28",
+      "logoUrl": "https://dse.co.tz/storage//securities/TPCC/Logo/TPCC.png",
+      "asset": "assets/companies/tpcc.png"
+    },
+    {
+      "symbol": "TTP",
+      "name": "Tanzania Tea Packers (TATEPA)",
+      "profile": "https://dse.co.tz/listed/company/profile?id=17",
+      "logoUrl": "https://dse.co.tz/storage//securities/TTP/Logo/TTP.jpg",
+      "asset": "assets/companies/ttp.jpg"
+    },
+    {
+      "symbol": "USL",
+      "name": "Uchumi Supermarkets",
+      "profile": "https://dse.co.tz/listed/company/profile?id=19",
+      "logoUrl": "https://dse.co.tz/storage//securities/USL/Logo/USL.jpg",
+      "asset": "assets/companies/usl.jpg"
+    },
+    {
+      "symbol": "VODA",
+      "name": "Vodacom Tanzania",
+      "profile": "https://dse.co.tz/listed/company/profile?id=24",
+      "logoUrl": "https://dse.co.tz/storage//securities/VODA/Logo/VODA.jpg",
+      "asset": "assets/companies/voda.jpg"
+    },
+    {
+      "symbol": "YETU",
+      "name": "Yetu Microfinance Bank",
+      "profile": "https://dse.co.tz/listed/company/profile?id=22",
+      "logoUrl": "https://dse.co.tz/storage//securities/YETU/Logo/YETU.png",
+      "asset": "assets/companies/yetu.png"
+    }
+  ]
+}
